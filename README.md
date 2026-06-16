@@ -1,2 +1,25 @@
-# construction-contracting-spreadsheet-calculator-bundle
-10 pre-built calculators, trackers, and dashboards for common Construction &amp; Contracting calculations. Instant spreadsheet tools without building from scratch.
+# Construction & Contracting Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY4gz4ePbUE3lmcDWd0p2h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY4gz4ePbUE3lmcDWd0p2h)
+
